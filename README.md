@@ -81,7 +81,7 @@ God's Hand Index = normalized(prob_gap) − normalized(underdog dominance)
 
 High = model expected a landslide and the underdog showed no real stat-based case for earning a point — i.e., the draw is best explained by chance/luck/wasted favorite chances rather than the underdog's merit
 
-(/img/underdog.png)
+![God's Hand Index results](img/underdog.png)
 
 How to read it: blue bars (positive) are the drawn matches where the model's mismatch was big but the underdog didn't actually earn it statistically — best explained by the favorite going cold in front of goal or plain variance. Orange bars (negative) are draws where the underdog genuinely out-stat'd the favorite (more possession, more shots on target, cleaner discipline), so the draw is less of a "fluke" and more of a deserved result.
 
