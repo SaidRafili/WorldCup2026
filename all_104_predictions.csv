@@ -1,0 +1,105 @@
+match_id,home_team_name,away_team_name,home_score,away_score,match_result,home_win_prob,away_win_prob,predicted_winner,actual_winner,correct
+1.00,Mexico,South Africa,2.00,0.00,H,0.63,0.11,Mexico,Mexico,True
+2.00,South Korea,Czechia,2.00,1.00,H,0.41,0.23,South Korea,South Korea,True
+3.00,Canada,Bosnia and Herzegovina,1.00,1.00,D,0.57,0.14,Canada,Draw,False
+4.00,USA,Paraguay,4.00,1.00,H,0.52,0.16,USA,USA,True
+5.00,Qatar,Switzerland,1.00,1.00,D,0.07,0.74,Switzerland,Draw,False
+6.00,Brazil,Morocco,1.00,1.00,D,0.50,0.18,Brazil,Draw,False
+7.00,Haiti,Scotland,0.00,1.00,A,0.11,0.63,Scotland,Scotland,True
+8.00,Australia,Türkiye,2.00,0.00,H,0.33,0.30,Australia,Australia,True
+9.00,Germany,Curaçao,7.00,1.00,H,0.91,0.02,Germany,Germany,True
+10.00,Netherlands,Japan,2.00,2.00,D,0.48,0.19,Netherlands,Draw,False
+11.00,Côte d'Ivoire,Ecuador,1.00,0.00,H,0.17,0.52,Ecuador,Côte d'Ivoire,False
+12.00,Sweden,Tunisia,5.00,1.00,H,0.49,0.18,Sweden,Sweden,True
+13.00,Spain,Cabo Verde,0.00,0.00,D,0.93,0.02,Spain,Draw,False
+14.00,Belgium,Egypt,1.00,1.00,D,0.68,0.09,Belgium,Draw,False
+15.00,Saudi Arabia,Uruguay,1.00,1.00,D,0.05,0.79,Uruguay,Draw,False
+16.00,IR Iran,New Zealand,2.00,2.00,D,0.80,0.05,IR Iran,Draw,False
+17.00,France,Senegal,3.00,1.00,H,0.74,0.07,France,France,True
+18.00,Iraq,Norway,1.00,4.00,A,0.15,0.56,Norway,Norway,True
+19.00,Argentina,Algeria,3.00,0.00,H,0.87,0.03,Argentina,Argentina,True
+20.00,Austria,Jordan,3.00,1.00,H,0.68,0.09,Austria,Austria,True
+21.00,Portugal,Congo DR,1.00,1.00,D,0.83,0.04,Portugal,Draw,False
+22.00,England,Croatia,4.00,2.00,H,0.50,0.18,England,England,True
+23.00,Ghana,Panama,1.00,0.00,H,0.33,0.30,Ghana,Ghana,True
+24.00,Uzbekistan,Colombia,1.00,3.00,A,0.04,0.83,Colombia,Colombia,True
+25.00,Mexico,South Korea,1.00,0.00,H,0.36,0.28,Mexico,Mexico,True
+26.00,Czechia,South Africa,1.00,1.00,D,0.57,0.14,Czechia,Draw,False
+27.00,Canada,Qatar,6.00,0.00,H,0.68,0.09,Canada,Canada,True
+28.00,Switzerland,Bosnia and Herzegovina,4.00,1.00,H,0.71,0.08,Switzerland,Switzerland,True
+29.00,Brazil,Haiti,3.00,0.00,H,0.94,0.01,Brazil,Brazil,True
+30.00,Scotland,Morocco,0.00,1.00,A,0.09,0.68,Morocco,Morocco,True
+31.00,USA,Australia,2.00,0.00,H,0.52,0.17,USA,USA,True
+32.00,Türkiye,Paraguay,0.00,1.00,A,0.39,0.25,Türkiye,Paraguay,False
+33.00,Germany,Côte d'Ivoire,2.00,1.00,H,0.88,0.03,Germany,Germany,True
+34.00,Ecuador,Curaçao,0.00,0.00,D,0.86,0.03,Ecuador,Draw,False
+35.00,Netherlands,Sweden,5.00,1.00,H,0.50,0.18,Netherlands,Netherlands,True
+36.00,Tunisia,Japan,0.00,4.00,A,0.09,0.68,Japan,Japan,True
+37.00,Belgium,IR Iran,0.00,0.00,D,0.51,0.17,Belgium,Draw,False
+38.00,New Zealand,Egypt,1.00,3.00,A,0.09,0.67,Egypt,Egypt,True
+39.00,Spain,Saudi Arabia,4.00,0.00,H,0.95,0.01,Spain,Spain,True
+40.00,Uruguay,Cabo Verde,2.00,2.00,D,0.87,0.03,Uruguay,Draw,False
+41.00,France,Iraq,3.00,0.00,H,0.96,0.01,France,France,True
+42.00,Norway,Senegal,3.00,2.00,H,0.35,0.29,Norway,Norway,True
+43.00,Argentina,Austria,2.00,0.00,H,0.84,0.04,Argentina,Argentina,True
+44.00,Jordan,Algeria,1.00,2.00,A,0.16,0.53,Algeria,Algeria,True
+45.00,Portugal,Uzbekistan,5.00,0.00,H,0.88,0.03,Portugal,Portugal,True
+46.00,Colombia,Congo DR,1.00,0.00,H,0.85,0.04,Colombia,Colombia,True
+47.00,England,Ghana,0.00,0.00,D,0.91,0.02,England,Draw,False
+48.00,Panama,Croatia,0.00,1.00,A,0.05,0.79,Croatia,Croatia,True
+49.00,Czechia,Mexico,0.00,3.00,A,0.20,0.47,Mexico,Mexico,True
+50.00,South Africa,South Korea,1.00,0.00,H,0.11,0.63,South Korea,South Africa,False
+51.00,Switzerland,Canada,2.00,1.00,H,0.37,0.26,Switzerland,Switzerland,True
+52.00,Bosnia and Herzegovina,Qatar,3.00,1.00,H,0.42,0.23,Bosnia and Herzegovina,Bosnia and Herzegovina,True
+53.00,Scotland,Brazil,0.00,3.00,A,0.04,0.83,Brazil,Brazil,True
+54.00,Morocco,Haiti,4.00,2.00,H,0.86,0.03,Morocco,Morocco,True
+55.00,Türkiye,USA,3.00,2.00,H,0.15,0.55,USA,Türkiye,False
+56.00,Paraguay,Australia,0.00,0.00,D,0.21,0.45,Australia,Draw,False
+57.00,Ecuador,Germany,2.00,1.00,H,0.11,0.64,Germany,Ecuador,False
+58.00,Curaçao,Côte d'Ivoire,0.00,2.00,A,0.07,0.74,Côte d'Ivoire,Côte d'Ivoire,True
+59.00,Tunisia,Netherlands,1.00,3.00,A,0.03,0.86,Netherlands,Netherlands,True
+60.00,Japan,Sweden,1.00,1.00,D,0.46,0.20,Japan,Draw,False
+65.00,Norway,France,1.00,4.00,A,0.05,0.81,France,France,True
+66.00,Senegal,Iraq,5.00,0.00,H,0.71,0.08,Senegal,Senegal,True
+61.00,New Zealand,Belgium,1.00,5.00,A,0.02,0.92,Belgium,Belgium,True
+62.00,Egypt,IR Iran,1.00,1.00,D,0.22,0.43,IR Iran,Draw,False
+63.00,Uruguay,Spain,0.00,1.00,A,0.10,0.66,Spain,Spain,True
+64.00,Cabo Verde,Saudi Arabia,0.00,0.00,D,0.30,0.33,Saudi Arabia,Draw,False
+67.00,Jordan,Argentina,1.00,3.00,A,0.01,0.97,Argentina,Argentina,True
+68.00,Algeria,Austria,3.00,3.00,D,0.22,0.44,Austria,Draw,False
+69.00,Colombia,Portugal,0.00,0.00,D,0.24,0.41,Portugal,Draw,False
+70.00,Congo DR,Uzbekistan,3.00,1.00,H,0.36,0.28,Congo DR,Congo DR,True
+71.00,Panama,England,0.00,2.00,A,0.02,0.91,England,England,True
+72.00,Croatia,Ghana,2.00,1.00,H,0.75,0.07,Croatia,Croatia,True
+73.00,South Africa,Canada,0.00,1.00,A,0.08,0.70,Canada,Canada,True
+74.00,Brazil,Japan,2.00,1.00,H,0.54,0.16,Brazil,Brazil,True
+75.00,Germany,Paraguay,1.00,1.00,D,0.84,0.04,Germany,Draw,False
+76.00,Netherlands,Morocco,1.00,1.00,D,0.51,0.17,Netherlands,Draw,False
+77.00,Côte d'Ivoire,Norway,1.00,2.00,A,0.23,0.42,Norway,Norway,True
+78.00,France,Sweden,3.00,0.00,H,0.78,0.06,France,France,True
+79.00,Mexico,Ecuador,2.00,0.00,H,0.25,0.40,Ecuador,Mexico,False
+80.00,England,Congo DR,2.00,1.00,H,0.88,0.03,England,England,True
+81.00,Belgium,Senegal,3.00,2.00,H,0.52,0.17,Belgium,Belgium,True
+82.00,USA,Bosnia and Herzegovina,2.00,0.00,H,0.71,0.08,USA,USA,True
+83.00,Spain,Austria,3.00,0.00,H,0.82,0.04,Spain,Spain,True
+84.00,Portugal,Croatia,2.00,1.00,H,0.50,0.18,Portugal,Portugal,True
+85.00,Switzerland,Algeria,2.00,0.00,H,0.50,0.18,Switzerland,Switzerland,True
+86.00,Australia,Egypt,1.00,1.00,D,0.36,0.27,Australia,Draw,False
+87.00,Argentina,Cabo Verde,3.00,2.00,H,0.96,0.01,Argentina,Argentina,True
+88.00,Colombia,Ghana,1.00,0.00,H,0.83,0.04,Colombia,Colombia,True
+89.00,Paraguay,France,0.00,1.00,A,0.02,0.92,France,France,True
+90.00,Canada,Morocco,0.00,3.00,A,0.19,0.47,Morocco,Morocco,True
+91.00,Brazil,Norway,1.00,2.00,A,0.71,0.08,Brazil,Norway,False
+92.00,Mexico,England,2.00,3.00,A,0.07,0.74,England,England,True
+93.00,Portugal,Spain,0.00,1.00,A,0.16,0.53,Spain,Spain,True
+94.00,USA,Belgium,1.00,4.00,A,0.17,0.52,Belgium,Belgium,True
+95.00,Argentina,Egypt,3.00,2.00,H,0.92,0.02,Argentina,Argentina,True
+96.00,Switzerland,Colombia,0.00,0.00,D,0.16,0.54,Colombia,Draw,False
+97.00,France,Morocco,2.00,0.00,H,0.68,0.09,France,France,True
+98.00,Spain,Belgium,2.00,1.00,H,0.62,0.12,Spain,Spain,True
+99.00,Norway,England,1.00,2.00,A,0.07,0.76,England,England,True
+100.00,Argentina,Switzerland,3.00,1.00,H,0.80,0.05,Argentina,Argentina,True
+101.00,France,Spain,0.00,2.00,A,0.29,0.34,Spain,Spain,True
+102.00,England,Argentina,1.00,2.00,A,0.17,0.52,Argentina,Argentina,True
+103.00,France,England,4.00,6.00,A,0.44,0.22,France,England,False
+104.00,Spain,Argentina,1.00,0.00,H,0.28,0.36,Argentina,Spain,False
