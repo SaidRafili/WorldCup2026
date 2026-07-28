@@ -1,3 +1,5 @@
+![Banner](img/wc.png)
+
 ## Introduction 
 
 World Cup 2026 was an international Football tournament consisted of 104 games and 48 teams (16 UEFA, 10 CAF, 9 AFC, 6 CONCACAF, 6 CONMEBOL, 1 OFC). 
